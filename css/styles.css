@@ -109,6 +109,7 @@ a:hover{
 }
 
 hr{
+    margin: auto;
     border-style: none;
     border-top-style: dotted;
     border-color: grey;
